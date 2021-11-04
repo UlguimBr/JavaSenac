@@ -1,5 +1,5 @@
 
-package calcMédia;
+package calcmédia;
 
 import java.util.Scanner;
 
